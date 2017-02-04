@@ -1,0 +1,27 @@
+3
+This is a text file
+Line1
+Line2
+
+Line3
+second
+third 
+fourth
+fifth
+sixth
+seventh
+eighth
+Nineth
+Tenth
+eleventh
+twelfth
+thirteenth
+fourteenth
+fifteenth
+sixteenth
+seventeenth
+eighteenth
+nineteenth
+twentyith
+From working directory - Zebra
+
